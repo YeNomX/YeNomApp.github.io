@@ -189,3 +189,9 @@ yandex.com, 40427798, RESELLER
 yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
+
+#
+# Fluct 
+#
+adingo.jp, 29642, RESELLER
+
