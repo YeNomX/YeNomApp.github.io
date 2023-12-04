@@ -37,9 +37,9 @@ window.$docsify = {
   alias: {
     '/.*/_navbar.md': '/_navbar.md',
     //'/.*/_sidebar.md': '/_sidebar.md', // https://github.com/docsifyjs/docsify/issues/301
-    //'.*?/changelog': 'https://raw.githubusercontent.com/YeNomApp/changelog/main/README.md',
-    '/release_notes': 'https://raw.githubusercontent.com/YeNomApp/ReleaseNotes/main/README.md',
-    '(.*?)/release_notes': 'https://raw.githubusercontent.com/YeNomApp/ReleaseNotes/main/$1/README.md',
+    //'.*?/changelog': 'https://raw.githubusercontent.com/YeNomX/changelog/main/README.md',
+    '/release_notes': 'https://raw.githubusercontent.com/YeNomX/ReleaseNotes/main/README.md',
+    '(.*?)/release_notes': 'https://raw.githubusercontent.com/YeNomX/ReleaseNotes/main/$1/README.md',
     //'/zh_Hans/(.*)': '/zh_Hans/$1',
   },
 
