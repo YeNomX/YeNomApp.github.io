@@ -2,7 +2,7 @@ window.$docsify = {
   //routerMode: 'history', REF: https://github.com/docsifyjs/docsify/issues/235#issuecomment-322960245
 
   // General
-  name    : 'YeNom',
+  name    : 'YeNom Docs',
   nameLink: '/',
   //logo: '/_media/icon.svg'
 
