@@ -43,10 +43,11 @@ window.$docsify = {
     //'/zh_Hans/(.*)': '/zh_Hans/$1',
   },
 
-  fallbackLanguages: ['zh_Hans', 'zh_Hant'],
+  fallbackLanguages: ['en', 'zh_Hans', 'zh_Hant'],
 
   notFoundPage: {
     '/'       : '_404.md',
+    '/en'     : 'en/_404.md',
     '/zh_Hans': 'zh_Hans/_404.md',
   },
 
@@ -72,6 +73,7 @@ window.$docsify = {
       '/ru-ru/'  : 'Никаких результатов.',
       '/zh_Hans/': '未匹配到结果。',
       '/zh_Hant/': '未匹配到結果。',
+      '/en'      : 'No results.',
       '/'        : 'No results.',
     },
     paths: 'auto',
@@ -81,6 +83,7 @@ window.$docsify = {
       '/ru-ru/'  : 'Поиск',
       '/zh_Hans/': '搜索',
       '/zh_Hant/': '搜索',
+      '/en'      : 'Search',
       '/'        : 'Search',
     },
   },
