@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    ".gitignore": true,
+    "**/.nojekyll": true,
+    "app-ads.txt": true,
+    "CNAME": true,
+    "LICENSE": true
+  }
+}
