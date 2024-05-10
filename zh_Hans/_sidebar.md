@@ -1,3 +1,4 @@
+- [主页](https://kjuly.com)
 - [更新日志](zh_Hans/release_notes.md "YeNom 更新日志")
 - [帮助](zh_Hans/support.md)
 
