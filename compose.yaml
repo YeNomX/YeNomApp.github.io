@@ -1,0 +1,10 @@
+services:
+  nginx:
+    build: .
+    ports:
+      - "4000:80"
+    develop:
+      watch:
+        - action: sync
+          path: .
+          target: /usr/share/nginx/html/

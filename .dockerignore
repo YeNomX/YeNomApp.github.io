@@ -1,0 +1,10 @@
+.DS_Store
+.*.sw[po]
+
+Dockerfile
+compose.yaml
+.env
+
+*.code-workspace
+.vscode
+sync_exclude.md
