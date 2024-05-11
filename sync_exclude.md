@@ -11,4 +11,5 @@ app-ads.txt
 
 Dockerfile
 compose.yaml
+.dockerignore
 
