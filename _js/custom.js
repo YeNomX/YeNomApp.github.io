@@ -1,5 +1,6 @@
 window.$docsify = {
-  //routerMode: 'history', REF: https://github.com/docsifyjs/docsify/issues/235#issuecomment-322960245
+  // REF: https://github.com/docsifyjs/docsify/issues/235#issuecomment-322960245
+  //routerMode: 'history',
 
   // General
   name    : 'YeNom Docs',
