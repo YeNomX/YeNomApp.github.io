@@ -1,4 +1,4 @@
-## Privacy Policy
+**Privacy Policy**
 
 Kaijie Yu built the YeNom app as a Freemium app. This SERVICE is provided by Kaijie Yu and is intended for use as is.
 
